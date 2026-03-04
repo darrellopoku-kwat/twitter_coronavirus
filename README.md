@@ -58,7 +58,7 @@ The following visualizations highlight the **top 10 languages and countries** as
 <img src="outputs/coronavirus_lang_top10.png" width="650">
 </p>
 
-This chart shows the top languages in which the hashtag **#coronavirus** appeared. English dominates the dataset, followed by Spanish and Portuguese. This distribution reflects both the global spread of COVID-19 and the large number of English-language Twitter users.
+This chart shows the top languages in which the hashtag **#coronavirus** appeared. English dominates the dataset, followed by `und` representing an undetermined language then Spanish and Portuguese. This distribution reflects both the global spread of COVID-19 and the large number of English-language Twitter users.
 
 ---
 
@@ -68,7 +68,7 @@ This chart shows the top languages in which the hashtag **#coronavirus** appeare
 <img src="outputs/coronavirus_country_top10.png" width="650">
 </p>
 
-This visualization shows the countries generating the largest number of tweets containing **#coronavirus**. Countries with high Twitter usage and large populations appear most frequently in the dataset.
+This visualization shows the countries generating the largest number of tweets containing **#coronavirus**. Countries with high Twitter usage and large populations appear most frequently in the dataset (United States, India, Great Britian)
 
 ---
 
@@ -78,7 +78,7 @@ This visualization shows the countries generating the largest number of tweets c
 <img src="outputs/korean_coronavirus_lang_top10.png" width="650">
 </p>
 
-This chart displays the language distribution of tweets containing the Korean hashtag **#코로나바이러스**. As expected, the majority of tweets appear in Korean, though other languages also appear due to international discussions of the pandemic.
+This chart displays the language distribution of tweets containing the Korean hashtag **#코로나바이러스**. As expected, the majority of tweets appear in Korean, though other languages also appear assuming due to international discussions of the pandemic.
 
 ---
 
@@ -88,7 +88,9 @@ This chart displays the language distribution of tweets containing the Korean ha
 <img src="outputs/korean_coronavirus_country_top10.png" width="650">
 </p>
 
-This visualization highlights the countries where the Korean hashtag **#코로나바이러스** was used most frequently. The majority of these tweets originate from South Korea, with smaller contributions from other regions.
+This visualization highlights the countries where the Korean hashtag **#코로나바이러스** was used most frequently. The majority of these tweets originate from South Korea, with much smaller contributions from other countries.
+
+---
 
 ### Hashtag Usage Over Time
 
